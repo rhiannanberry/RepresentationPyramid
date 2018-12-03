@@ -1,0 +1,1 @@
+﻿public enum States {Abstract,Realistic,Iconic};

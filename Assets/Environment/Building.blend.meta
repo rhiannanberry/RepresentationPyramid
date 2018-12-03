@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: fe96c597e3d90d9458f19386209af156
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ceiling
+    100004: Floor
+    100006: Walls
+    100008: Boundaries
+    100010: AbstractToIconic
+    100012: AbstractToRealistic
+    100014: IconicToAbstract
+    100016: IconicToReal
+    100018: RealisticToAbstract
+    100020: RealToIconic
+    100022: Abstracted
+    100024: Iconic
+    100026: Realistic
+    100028: IconicAbstract
+    100030: IconicReal
+    100032: RealAbstracted
+    100034: Resets
+    100036: Resets_001
+    100038: Resets_002
+    100040: Resets_003
+    100042: Abstracted_001
+    100044: Entrances
+    100046: Iconic_001
+    100048: Real
+    100050: Real_001
+    400000: //RootNode
+    400002: Ceiling
+    400004: Floor
+    400006: Walls
+    400008: Boundaries
+    400010: AbstractToIconic
+    400012: AbstractToRealistic
+    400014: IconicToAbstract
+    400016: IconicToReal
+    400018: RealisticToAbstract
+    400020: RealToIconic
+    400022: Abstracted
+    400024: Iconic
+    400026: Realistic
+    400028: IconicAbstract
+    400030: IconicReal
+    400032: RealAbstracted
+    400034: Resets
+    400036: Resets_001
+    400038: Resets_002
+    400040: Resets_003
+    400042: Abstracted_001
+    400044: Entrances
+    400046: Iconic_001
+    400048: Real
+    400050: Real_001
+    2100000: Material
+    2100002: unnamed
+    2100004: Real
+    2100006: Abstracted
+    2100008: Iconic
+    2100010: AbstractCeiling
+    2100012: RealisticCeiling
+    2100014: IconicCeiling
+    2100016: AbstractFloor
+    2100018: IconicFloor
+    2100020: RealFloor
+    2100022: RealWalls
+    2100024: IconicWalls
+    2100026: AbstractWalls
+    2100028: Black
+    2300000: Ceiling
+    2300002: Floor
+    2300004: Walls
+    2300006: Boundaries
+    2300008: AbstractToIconic
+    2300010: AbstractToRealistic
+    2300012: IconicToAbstract
+    2300014: IconicToReal
+    2300016: RealisticToAbstract
+    2300018: RealToIconic
+    2300020: Abstracted
+    2300022: Iconic
+    2300024: Realistic
+    2300026: IconicAbstract
+    2300028: IconicReal
+    2300030: RealAbstracted
+    2300032: Resets
+    2300034: Resets_001
+    2300036: Resets_002
+    2300038: Resets_003
+    2300040: Abstracted_001
+    2300042: Entrances
+    2300044: Iconic_001
+    2300046: Real
+    2300048: Real_001
+    3300000: Ceiling
+    3300002: Floor
+    3300004: Walls
+    3300006: Boundaries
+    3300008: AbstractToIconic
+    3300010: AbstractToRealistic
+    3300012: IconicToAbstract
+    3300014: IconicToReal
+    3300016: RealisticToAbstract
+    3300018: RealToIconic
+    3300020: Abstracted
+    3300022: Iconic
+    3300024: Realistic
+    3300026: IconicAbstract
+    3300028: IconicReal
+    3300030: RealAbstracted
+    3300032: Resets
+    3300034: Resets_001
+    3300036: Resets_002
+    3300038: Resets_003
+    3300040: Abstracted_001
+    3300042: Entrances
+    3300044: Iconic_001
+    3300046: Real
+    3300048: Real_001
+    4300000: Ceiling
+    4300002: Walls
+    4300004: Floor
+    4300006: Boundaries
+    4300008: RealisticToAbstract
+    4300010: AbstractToIconic
+    4300012: IconicToReal
+    4300014: AbstractToRealistic
+    4300016: IconicToAbstract
+    4300018: RealToIconic
+    4300020: Iconic
+    4300022: Abstracted
+    4300024: Realistic
+    4300026: RealAbstracted
+    4300028: IconicReal
+    4300030: IconicAbstract
+    4300032: Resets
+    4300034: Resets_003
+    4300036: Resets_002
+    4300038: Resets_001
+    4300040: Entrances
+    4300042: Real
+    4300044: Iconic_001
+    4300046: Real_001
+    4300048: Abstracted_001
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AbstractCeiling
+    second: {fileID: 2100000, guid: 5dd09af4ce9ed7249a6606f62beb41ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AbstractFloor
+    second: {fileID: 2100000, guid: d128f0150b42ca14ab8af4fab2ee2a57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AbstractWalls
+    second: {fileID: 2100000, guid: 43a2a92bdabd7ba4fa215947c24b7cbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Abstracted
+    second: {fileID: 2100000, guid: 2c8992cf013eabf48b49b9de1a3284de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 8f8d98ced70992741a25a71ff0c56421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iconic
+    second: {fileID: 2100000, guid: 2e0907bf9ac61ae49a82c0081c2775d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IconicCeiling
+    second: {fileID: 2100000, guid: 1711460dd08030d49918f7728414e365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IconicFloor
+    second: {fileID: 2100000, guid: 2335488cc1071164c81a6e888f6f6aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IconicWalls
+    second: {fileID: 2100000, guid: 6db1a05a93a7d094e89f5dfd7be8eb92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Real
+    second: {fileID: 2100000, guid: b0cbfe05bcec6774a9612dd0bf79bdf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RealFloor
+    second: {fileID: 2100000, guid: f813b51498791fd45ba8879978e09648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RealWalls
+    second: {fileID: 2100000, guid: bf4b68ba977efc54b9408c030820c81c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RealisticCeiling
+    second: {fileID: 2100000, guid: d354cb0ce5bad7e499cac08630cc1304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: f813b51498791fd45ba8879978e09648, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
